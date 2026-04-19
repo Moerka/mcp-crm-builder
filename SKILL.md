@@ -319,3 +319,14 @@ For issues or questions:
 - Check Troubleshooting section above
 - Review `references/DEPLOYMENT.md` for deployment issues
 - Consult Manus webdev documentation for framework-specific questions
+
+## Advanced Authentication
+
+This skill uses advanced GitHub authentication with:
+- JWT Token Management
+- Encrypted Secret Vault
+- GitHub App Integration
+- Permission Scoping
+- Audit Logging
+
+See ADVANCED_AUTH_GUIDE.md for details.
